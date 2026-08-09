@@ -4,7 +4,7 @@ My beginner Python projects made while learning Python.
 
 ---
 
-## 🎯 1. Number Guessing Game
+##  1. Number Guessing Game
 
 A simple guessing game where the player gets **3 chances** to guess a randomly generated number.
 
@@ -19,7 +19,7 @@ A simple guessing game where the player gets **3 chances** to guess a randomly g
 ```bash
 python number_guessing_game.py
 
-## 🎯 2. Stone Paper Scissors
+##  2. Stone Paper Scissors
 
 A Stone Paper Scissors game between the player and computer.
 
