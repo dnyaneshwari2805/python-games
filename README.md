@@ -18,18 +18,19 @@ A simple guessing game where the player gets **3 chances** to guess a randomly g
 
 ```bash
 python number_guessing_game.py
-2. Rock Paper Scissors
 
-A Rock Paper Scissors game between the player and computer.
+## 🎯 2. Stone Paper Scissors
 
-###Features
+A Stone Paper Scissors game between the player and computer.
+
+### Features
 3 rounds
 Computer makes a random choice
 Player and computer choices are revealed together
 Player wins are counted
 2 or more wins → Good Job 🎉
-###How to Run
-python rock_paper_scissors.py
+### How to Run
+python stone_paper_scissors.py
 🛠️ Technologies
 Python
 Random module
