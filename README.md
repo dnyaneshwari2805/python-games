@@ -4,6 +4,6 @@
 
 A simple Python game where the player gets 3 chances to guess the number.
 
-## 2. Rock Paper Scissors
+## 2. Stone Paper Scissors
 
 A simple Python game where the player plays against the computer for 3 rounds.
